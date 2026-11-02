@@ -1,4 +1,8 @@
 # branch-test
-hotfix my soultion
+<<<<<<< HEAD
+hotfix 
 
 
+=======
+hotfix
+>>>>>>> origin/main
